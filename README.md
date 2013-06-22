@@ -8,10 +8,10 @@ DRM
 
 2.AAC
 
-3. Channel Encoding
+3.Channel Encoding
 
-4. Cell Interleaver
+4.Cell Interleaver
 
-5. OFDM
+5.OFDM
 
 
